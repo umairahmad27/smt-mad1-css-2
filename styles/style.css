@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header div {
+    /* border: 1px solid black; */
+    /* height: 20px; */
+    width: 49%;
+    display: inline-block;
+}
+#secondDiv {
+    text-align: right;
+}
+#secondDiv a {
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline-block;
+    /* border: 1px solid white; */
+}
+/* body { */
+/* background-color: brown;
+    background-image: url("../assets/images/bg-small.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top right; */
+/* background: url("../assets/images/bg.jpg") no-repeat; */
+/* background-size: contain; */
+/* } */
+
+h1 {
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: red; */
+    border: solid;
+}
+
+/* span {
+} */
+
+h1 span {
+    border: 5px solid red;
+}
+
+.box {
+    border: 1px solid red;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+input {
+    border-radius: 30px;
+}
+
+.div {
+    height: 30px;
+    border: 1px solid black;
+    /* box-sizing: border-box; */
+}
+.div1 {
+    /* margin: 50px 10px 100px 30px; */
+    margin-bottom: 120px;
+    padding: 5px 0;
+}
+.div2 {
+    margin-top: 110px;
+}
+
+.div3 {
+    border: 1px solid purple;
+    height: auto;
+    width: 200px;
+    /* margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto; */
+    margin: 20px 0 0;
+    padding: 0 0 0 10px;
+    /* padding: 10px 8px; */
+    box-sizing: border-box;
+}
